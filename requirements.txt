@@ -1,0 +1,5 @@
+numpy>=1.24.2
+scipy>=1.10.1
+h5py>=3.8.0
+docopt>=0.6.2
+meshoid>=1.41
